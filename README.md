@@ -1,0 +1,2 @@
+# Pocket Grad
+A scalar value-based automatic gradient engine and neural network library that implement backpropagation. Built for educational purposes and not intended for commercial or production use cases. Simple and pocket-sized.
